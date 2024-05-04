@@ -1,6 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Compiletor and Interpretator on F#
+description: created by Zhelanov, Katin, Pavlovsky
 theme: just-the-docs
+logo: "/img/Gemfile.jpeg"
 
 url: https://dazz1ee.github.io/FP-wiki
 
