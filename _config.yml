@@ -1,10 +1,10 @@
 title: Compiletor and Interpretator on F#
 description: created by Zhelanov, Katin, Pavlovsky
 theme: just-the-docs
-logo: "/img/Gemfile.jpeg"
 favicon_ico: "/img/Gemfile.jpeg"
 
 url: https://dazz1ee.github.io/FP-wiki
 
 aux_links:
   Lab Repository: https://github.com/MAILabs-Edu-2024/fp-compiler-lab-the-best-team
+color_scheme: dark

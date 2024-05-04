@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Data type
 layout: home
 ---
 
